@@ -1,0 +1,15 @@
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/övning github actions/githubActionsPullRequestRemplate/bin/Debug/net9.0/githubActionsPullRequestRemplate
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/övning github actions/githubActionsPullRequestRemplate/bin/Debug/net9.0/githubActionsPullRequestRemplate.deps.json
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/övning github actions/githubActionsPullRequestRemplate/bin/Debug/net9.0/githubActionsPullRequestRemplate.runtimeconfig.json
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/övning github actions/githubActionsPullRequestRemplate/bin/Debug/net9.0/githubActionsPullRequestRemplate.dll
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/övning github actions/githubActionsPullRequestRemplate/bin/Debug/net9.0/githubActionsPullRequestRemplate.pdb
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/övning github actions/githubActionsPullRequestRemplate/obj/Debug/net9.0/githubActionsPullRequestRemplate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/övning github actions/githubActionsPullRequestRemplate/obj/Debug/net9.0/githubActionsPullRequestRemplate.AssemblyInfoInputs.cache
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/övning github actions/githubActionsPullRequestRemplate/obj/Debug/net9.0/githubActionsPullRequestRemplate.AssemblyInfo.cs
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/övning github actions/githubActionsPullRequestRemplate/obj/Debug/net9.0/githubActionsPullRequestRemplate.csproj.CoreCompileInputs.cache
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/övning github actions/githubActionsPullRequestRemplate/obj/Debug/net9.0/githubActionsPullRequestRemplate.sourcelink.json
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/övning github actions/githubActionsPullRequestRemplate/obj/Debug/net9.0/githubActionsPullRequestRemplate.dll
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/övning github actions/githubActionsPullRequestRemplate/obj/Debug/net9.0/refint/githubActionsPullRequestRemplate.dll
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/övning github actions/githubActionsPullRequestRemplate/obj/Debug/net9.0/githubActionsPullRequestRemplate.pdb
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/övning github actions/githubActionsPullRequestRemplate/obj/Debug/net9.0/githubActionsPullRequestRemplate.genruntimeconfig.cache
+/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/övning github actions/githubActionsPullRequestRemplate/obj/Debug/net9.0/ref/githubActionsPullRequestRemplate.dll
