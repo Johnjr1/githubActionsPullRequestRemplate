@@ -1,0 +1,22 @@
+name: Build .NET Project
+
+on:
+  pull_request:
+    branches:
+      - main  # eller den gren du vill skydda
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout koden
+        uses: actions/checkout@v4
+
+      - name: Installera .NET SDK
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.0.x'  # Ändra vid behov
+
+      - name: Bygg projektet
+        run: dotnet build --no-restore
