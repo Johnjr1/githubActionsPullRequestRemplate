@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/övning github actions/githubActionsPullRequestRemplate/githubActionsPullRequestRemplate.csproj": {}
+    "/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/övning github actions/githubActionsPullRequestRemplate/githubActionsPullRequestRemplate.csproj": {}
   },
   "projects": {
-    "/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/övning github actions/githubActionsPullRequestRemplate/githubActionsPullRequestRemplate.csproj": {
+    "/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/övning github actions/githubActionsPullRequestRemplate/githubActionsPullRequestRemplate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/övning github actions/githubActionsPullRequestRemplate/githubActionsPullRequestRemplate.csproj",
+        "projectUniqueName": "/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/övning github actions/githubActionsPullRequestRemplate/githubActionsPullRequestRemplate.csproj",
         "projectName": "githubActionsPullRequestRemplate",
-        "projectPath": "/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/övning github actions/githubActionsPullRequestRemplate/githubActionsPullRequestRemplate.csproj",
+        "projectPath": "/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/övning github actions/githubActionsPullRequestRemplate/githubActionsPullRequestRemplate.csproj",
         "packagesPath": "/Users/johnjr/.nuget/packages/",
-        "outputPath": "/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/övning github actions/githubActionsPullRequestRemplate/obj/",
+        "outputPath": "/Users/johnjr/Documents/Backend Cloud/FörstaKursen/Vecka 3/övning github actions/githubActionsPullRequestRemplate/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/johnjr/.nuget/NuGet/NuGet.Config"

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("githubActionsPullRequestRemplate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b23b0ea8f79c9ae031fdfd8872b7d3befb59e10b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29d55220aed1f8ea8e9ee4cdcab26813f606c8c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("githubActionsPullRequestRemplate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("githubActionsPullRequestRemplate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
