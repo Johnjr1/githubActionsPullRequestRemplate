@@ -1,22 +1,26 @@
-name: Build .NET Project
+name: Build .NET 8 Project
 
 on:
   pull_request:
     branches:
-      - main  # eller den gren du vill skydda
+      - main  # Ändra om du har en annan default branch
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout koden
+      - name: Checka ut koden
         uses: actions/checkout@v4
 
-      - name: Installera .NET SDK
+      - name: Installera .NET 8 SDK
         uses: actions/setup-dotnet@v4
         with:
-          dotnet-version: '8.0.x'  # Ändra vid behov
+          dotnet-version: '8.0.x'
+
+      - name: Restore beroenden
+        run: dotnet restore
 
       - name: Bygg projektet
         run: dotnet build --no-restore
+``
