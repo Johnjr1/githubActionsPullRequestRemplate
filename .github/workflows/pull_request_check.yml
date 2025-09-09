@@ -34,3 +34,4 @@ jobs:
                -X POST \
                -d "{\"content\": \":bell: PR Build finished with status: **$STATUS**\"}" \
                ${{ secrets.DISCORD_HOOK }}
+               
