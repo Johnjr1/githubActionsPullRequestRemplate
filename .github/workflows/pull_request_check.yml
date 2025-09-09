@@ -1,26 +1,23 @@
-name: Build .NET 8 Project
+name: Build .NET 9 Project
 
 on:
   pull_request:
-    branches:
-      - main  # Ändra om du har en annan default branch
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checka ut koden
+      - name: Checkout koden
         uses: actions/checkout@v4
 
-      - name: Installera .NET 8 SDK
+      - name: Installera .NET 9 SDK
         uses: actions/setup-dotnet@v4
         with:
-          dotnet-version: '8.0.x'
+          dotnet-version: '9.0.x'  # Matchar .NET 9 SDK
 
-      - name: Restore beroenden
+      - name: Restore dependencies
         run: dotnet restore
 
       - name: Bygg projektet
         run: dotnet build --no-restore
-``
