@@ -14,9 +14,9 @@ jobs:
       - name: Installera .NET 9 SDK
         uses: actions/setup-dotnet@v4
         with:
-          dotnet-version: '9.0.x'  # Matchar .NET 9 SDK
+          dotnet-version: '9.0.x'  # <- OBS! Detta kräver att .NET 9 SDK finns officiellt eller som preview
 
-      - name: Restore dependencies
+      - name: Restore beroenden
         run: dotnet restore
 
       - name: Bygg projektet
